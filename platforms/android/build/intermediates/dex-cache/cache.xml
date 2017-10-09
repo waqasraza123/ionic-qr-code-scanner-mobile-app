@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_a326fba5bfc56d67a425aad5c15210947fe89950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Clients\Ch Waqas\scanner\platforms\android\libs\sqlite-connector.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76169ab23a4f939925491c6fe186749da5a56ee9">
+        <dex dex="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\pre-dexed\debug\sqlite-connector_6e6193dfc42fa12fa3893715ba2e1b04244d31c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_98d9a35e507ffe6d50031c48a8ad4fcbafb9aef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="29c426f3ff52238291c86e939dff6bd8a877b86c">
+        <dex dex="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.3.0_cd833698600bf7fffb408d6e82a899ffc2058ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hamza Iqbal\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\pre-dexed\debug\core-3.2.1_88a88b75222ce07a1042e7b7685da1ba4ac6c71a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_24c46cbde714be0842274322039416f341dd73a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a1530ac850543228ac856fe951d258efe29f918">
+        <dex dex="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.2.3-debug_ecd22457281215d938a077443283e96c8e3cf551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\Clients\Ch Waqas\scanner\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_410c29a625973f5e62ad0d41fe4330881fed7cbf.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,46 @@
+page-home {
+    .scroll-content{
+        overflow: hidden;
+      }
+    .div {
+        text-align: center;
+    }
+
+    .myButton {
+        width:150px;
+        height: 150px;
+        background: transparent;     
+        background-image: '/assets/img/button.png';
+    }
+    .outerDiv{
+        height: 100vh;
+        width:100vw;
+        //background-image: 'assets/img/background.png';
+    }
+    .bgDiv{
+        position: absolute;
+        height: 100vh;
+        width:100vw;
+        z-index: 1;
+    }
+    .logoDiv{
+        width: 100vw;
+        position:absolute;
+        z-index: 3;
+    }
+    img.buttonImg{
+        float: none;
+        display: block;
+        width:65%;
+        margin: 0 auto;
+        padding-top: 5vh;
+       
+    }
+    .logoImg{
+        float: none;
+        display: block;
+        width:73%;
+        margin: 0 auto;
+        padding-top: 20vh;
+    }
+}

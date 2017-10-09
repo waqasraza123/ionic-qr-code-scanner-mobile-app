@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Clients\\Ch Waqas\\scanner\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi\\screen.png",
+        "source": "E:\\Clients\\Ch Waqas\\scanner\\platforms\\android\\res\\drawable-port-ldpi\\screen.png"
+    },
+    {
+        "merged": "E:\\scanner\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi\\screen.png",
+        "source": "E:\\scanner\\platforms\\android\\res\\drawable-port-ldpi\\screen.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\scanner\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon.png",
+        "source": "E:\\scanner\\platforms\\android\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Clients\\Ch Waqas\\scanner\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon.png",
+        "source": "E:\\Clients\\Ch Waqas\\scanner\\platforms\\android\\res\\mipmap-xxxhdpi\\icon.png"
+    }
+]

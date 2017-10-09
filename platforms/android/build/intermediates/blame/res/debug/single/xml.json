@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Clients\\Ch Waqas\\scanner\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "E:\\Clients\\Ch Waqas\\scanner\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "E:\\scanner\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "E:\\scanner\\platforms\\android\\res\\xml\\config.xml"
+    }
+]
