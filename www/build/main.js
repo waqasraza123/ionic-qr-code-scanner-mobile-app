@@ -1,4 +1,4 @@
-webpackJsonp([3],{
+webpackJsonp([1],{
 
 /***/ 109:
 /***/ (function(module, exports) {
@@ -21,17 +21,9 @@ webpackEmptyAsyncContext.id = 109;
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"../ionic-qr-code-scanner-app/ionic-qr-code-scanner-app/pages/textview/textview.module": [
-		275,
-		1
-	],
-	"../ionic-qr-code-scanner-app/pages/textview/textview.module": [
-		274,
-		0
-	],
 	"../pages/textview/textview.module": [
 		273,
-		2
+		0
 	]
 };
 function webpackAsyncContext(req) {
@@ -332,7 +324,7 @@ var HomePage = (function () {
 }());
 HomePage = __decorate([
     Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-        selector: 'page-home',template:/*ion-inline-start:"E:\Clients\Ch Waqas\scanner\src\pages\home\home.html"*/'<ion-header>\n  \n</ion-header>\n<ion-content >\n    <div [style.display]="toggoleShowHide ? \'block\' : \'none\'" >\n        <div class = "outerDiv"> \n        <img src="assets/img/background.png" class="bgDiv" />\n        <div class = "logoDiv">\n        <img src="assets/img/logo.png" class="logoImg" />\n        <img src="assets/img/button.png" (click)=" itemClicked()" class="buttonImg" />\n        </div>\n    </div>\n  </div>\n</ion-content>\n'/*ion-inline-end:"E:\Clients\Ch Waqas\scanner\src\pages\home\home.html"*/
+        selector: 'page-home',template:/*ion-inline-start:"E:\Software & Games\WEB\Laravel\Projects\ionic-qr-code-scanner-app\src\pages\home\home.html"*/'<ion-header>\n\n  \n\n</ion-header>\n\n<ion-content >\n\n    <div [style.display]="toggoleShowHide ? \'block\' : \'none\'" >\n\n        <div class = "outerDiv"> \n\n        <img src="assets/img/background.png" class="bgDiv" />\n\n        <div class = "logoDiv">\n\n        <img src="assets/img/logo.png" class="logoImg" />\n\n        <img src="assets/img/button.png" (click)=" itemClicked()" class="buttonImg" />\n\n        </div>\n\n    </div>\n\n  </div>\n\n</ion-content>\n\n'/*ion-inline-end:"E:\Software & Games\WEB\Laravel\Projects\ionic-qr-code-scanner-app\src\pages\home\home.html"*/
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_9__ionic_native_network__["a" /* Network */],
         __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* Platform */],
@@ -485,9 +477,7 @@ AppModule = __decorate([
             __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
             __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["c" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_11__app_component__["a" /* MyApp */], {}, {
                 links: [
-                    { loadChildren: '../pages/textview/textview.module#TextviewPageModule', name: 'TextviewPage', segment: 'textview', priority: 'low', defaultHistory: [] },
-                    { loadChildren: '../ionic-qr-code-scanner-app/pages/textview/textview.module#TextviewPageModule', name: 'TextviewPage', segment: 'textview', priority: 'low', defaultHistory: [] },
-                    { loadChildren: '../ionic-qr-code-scanner-app/ionic-qr-code-scanner-app/pages/textview/textview.module#TextviewPageModule', name: 'TextviewPage', segment: 'textview', priority: 'low', defaultHistory: [] }
+                    { loadChildren: '../pages/textview/textview.module#TextviewPageModule', name: 'TextviewPage', segment: 'textview', priority: 'low', defaultHistory: [] }
                 ]
             }),
             __WEBPACK_IMPORTED_MODULE_2__angular_http__["b" /* HttpModule */]
@@ -553,7 +543,7 @@ var MyApp = (function () {
     return MyApp;
 }());
 MyApp = __decorate([
-    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"E:\Clients\Ch Waqas\scanner\src\app\app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n'/*ion-inline-end:"E:\Clients\Ch Waqas\scanner\src\app\app.html"*/
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"E:\Software & Games\WEB\Laravel\Projects\ionic-qr-code-scanner-app\src\app\app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n\n'/*ion-inline-end:"E:\Software & Games\WEB\Laravel\Projects\ionic-qr-code-scanner-app\src\app\app.html"*/
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["h" /* Platform */], __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__["a" /* StatusBar */], __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__["a" /* SplashScreen */]])
 ], MyApp);
@@ -601,7 +591,7 @@ var TextviewPage = (function () {
 TextviewPage = __decorate([
     Object(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* IonicPage */])(),
     Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-        selector: 'page-textview',template:/*ion-inline-start:"E:\Clients\Ch Waqas\scanner\src\pages\textview\textview.html"*/'<!--\n  Generated template for the TextviewPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title></ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content padding>\n    <div class = "txtView" [innerHtml]=textToshow></div>\n</ion-content>\n'/*ion-inline-end:"E:\Clients\Ch Waqas\scanner\src\pages\textview\textview.html"*/,
+        selector: 'page-textview',template:/*ion-inline-start:"E:\Software & Games\WEB\Laravel\Projects\ionic-qr-code-scanner-app\src\pages\textview\textview.html"*/'<!--\n\n  Generated template for the TextviewPage page.\n\n\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n\n  Ionic pages and navigation.\n\n-->\n\n<ion-header>\n\n\n\n  <ion-navbar>\n\n    <ion-title></ion-title>\n\n  </ion-navbar>\n\n\n\n</ion-header>\n\n\n\n\n\n<ion-content padding>\n\n    <div class = "txtView" [innerHtml]=textToshow></div>\n\n</ion-content>\n\n'/*ion-inline-end:"E:\Software & Games\WEB\Laravel\Projects\ionic-qr-code-scanner-app\src\pages\textview\textview.html"*/,
     }),
     __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* NavParams */]])
 ], TextviewPage);
